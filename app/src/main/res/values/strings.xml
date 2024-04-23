@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CleanArcApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CheckYourInternetConnection">Lütfen bağlantınızı kontrol edin</string>
+    <string name="somethingWentWrong">Someting Went Wrong</string>
+    <string name="clear">Temizle</string>
+    <string name="addValue">Add</string>
+    <string name="clearAll">Clear</string>
+</resources>
